@@ -1,2 +1,2 @@
 #bio_projects
-Meselson-Stahl calculator (no GUI) [[meselstahlcalc]](
+Meselson-Stahl calculator (no GUI) [[meselstahlcalc]](https://github.com/bakuncwa/meselstahlcalc/blob/main/meselstahlcalc_code)
